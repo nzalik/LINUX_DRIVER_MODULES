@@ -1,1 +1,1 @@
-CMakeLists.txt not found in /home/nzali/Documents/RESEARCH/2023/5_May_2023/LINUX_DRIVER_MODULES/DMA_ALLOCATION Select CMakeLists.txt
+CMakeLists.txt not found in /home/nzali/CLionProjects/DMA_ALLOCATION_2 Select CMakeLists.txt
